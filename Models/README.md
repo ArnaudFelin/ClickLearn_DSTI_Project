@@ -8,7 +8,7 @@ Mobydick is a binary classifier build using the Ketos Library from Meridian. The
 
 Mobydick was trained on Narwal whale upcalls with the data and annotations provided by Meridian (the link yo their git repository can be found inside the notebook).
 
-## Tahoma
+## Tahora
 
 Tahoma provides an automated wokflow for the training, also using the whale data. 
 
