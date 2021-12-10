@@ -28,7 +28,7 @@ We have trained a whale sound classifier and a dolphin sound classifier. Detaile
 
 Details of sound processing libraries and command line interfaces that were tested for the project.
 
-### clicklearn_main_v1 & v2
+### clicklearn_main_v1
 
 Python main program deployed on the Iot Devices.
 Link to documentation : https://ubidreams.atlassian.net/wiki/spaces/UBISEA/pages/140017707/Python+Main+Program+on+Iot+Device
