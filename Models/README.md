@@ -10,7 +10,7 @@ Mobydick was trained on Narwal whale upcalls with the data and annotations provi
 
 ## Tohora
 
-Tahoma provides an automated wokflow for the training, also using the whale data. 
+Tahora provides an automated wokflow for the training, also using the whale data. 
 
 ## Flipper
 
