@@ -26,7 +26,11 @@ We have trained a whale sound classifier and a dolphin sound classifier. Detaile
 
 ### Sound Processing
 
-Details of sound processing libraries and command line interfaces that were tested for the project. 
+Details of sound processing libraries and command line interfaces that were tested for the project.
+
+### clicklearn_main_v1
+
+Main program deployed on the Iot Devices.
 
 ### Demos
 
