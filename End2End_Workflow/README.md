@@ -1,3 +1,3 @@
-# Explanation of the Structure
+# Python Main Program on Iot Device
 
 ...
