@@ -10,6 +10,8 @@ a client for Influx DB:
 
 ## Main program architecture:
 
+![pic0](pictures/0.jpg)
+
 The program has different functions which must operate independently and asynchronously. These differents functions could not be performed in a single process so we have to handle them with the multiprocessing library.
 
 We have in total 4 processes. The main process witch loads the 'watchDog_all_process' which in turn loads two other processes: 'record_sound_process' and 'inference process'.
