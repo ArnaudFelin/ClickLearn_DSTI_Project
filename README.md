@@ -1,4 +1,9 @@
 # ClickLearn_DSTI_Project
+
+## My contribution on this team project :
+
+On this project I mainly worked on the Edge computing part (Harware) and on the main program (End2End_Workflow)
+
 ## Links
 
 This is the Github Repo of the DSTI ClickLearn Project
